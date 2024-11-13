@@ -7,7 +7,9 @@ I'm Joy Chang, a junior at UC Santa Barbara, studying Statistics and Data Scienc
 
 # Skills
 ## Programming Languages:
-<img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" />
+<img src="https://img.shields.io/badge/Python-informational" alt="Python" />
+<img src="https://img.shields.io/badge/R" alt="R" />
+
 * Python 3
 
 
