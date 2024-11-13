@@ -1,12 +1,17 @@
 # About Me
 Hi folks :wave: 
 
-I'm Joy Chang, a junior at UC Santa Barbara , studying Statistics and Data Science & Applied Math. I am passionate about using data science and machine learning to drive meaningful business decisions and tackle community/global challenges. 
+I'm Joy Chang, a junior at UC Santa Barbara, studying Statistics and Data Science & Applied Math. I am passionate about using data science and machine learning to drive meaningful business decisions and tackle community/global challenges. 
 
 # Skills
 ## Programming Languages:
-Python (3 years), SQL (1 year), R (2 years), SAS
+<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/Java SE-important" alt="Java SE" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-yellow" alt="TypeScript" />
 
+<!-- * C/C++
+* Java SE
+* Python 3
+* JavaScript (ES6)
+* TypeScript -->
 ## Machine Learning: 
 Python (e.g. NumPy, Pandas, Matplotlib, Seaborn, Keras, Scikit-learn), Ensemble Methods, Clustering, Neural Networks, Natural Language Processing, Large Language Models, Computer Vision 
 
