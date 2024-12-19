@@ -6,8 +6,8 @@ I'm Joy Chang, a junior at UC Santa Barbara, studying Statistics and Data Scienc
 
 # :hammer_and_wrench: Skills 
 ## Programming Languages:
-Python                |         SQL          |           R          |         SAS         |
-:--------------------:|:--------------------:|:--------------------:|:---------------------
+Python                |         SQL          |           R          |                   SAS
+:--------------------:|:--------------------:|:--------------------:|:---------------------:
 <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="50">  |  <img src="https://cdn.iconscout.com/icon/free/png-512/free-sqlite-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-6-pack-icons-282687.png?f=webp&w=512" width="80">  |  <img src="https://icon.icepanel.io/Technology/svg/RStudio.svg" width="50">  |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/1200px-SAS_logo_horiz.svg.png?20090216100742" width="50">
 
 ## Machine Learning: 
@@ -40,7 +40,7 @@ Probability, Statistics, Regression, Time Series, Machine Learning, Deep Learnin
 * Studied mathematical modeling with partial differential equations (PDEs), such as parabolic PDEs and wave equations, and the numerical methods for approximating PDEs such as the finite difference method
 * Solved geometric differential equations using the finite element method
 * [Presentation](https://github.com/JoyChang10/resume/blob/d37745ed1adb83ea22fa0cba1d77dbe27449b30b/Geometric_Differential_Equations.pdf)
-
+  
 
 # Connect with Me!
 <a href="https://github.com/JoyChang10">
