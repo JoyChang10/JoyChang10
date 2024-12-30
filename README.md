@@ -22,7 +22,7 @@ Probability, Statistics, Regression, Time Series, Machine Learning, Deep Learnin
 
 # Projects
 ## :identification_card: Sensitive Discovery Model for American Express 
-* Developed a sensitive data discovery model to identify and redact personally identifiable information and contextual data from large-scale text, ensuring data privacy and protection of individual identities
+* Developed a sensitive data discovery model to identify and redact personally identifiable information and contextual data from large-scale text, ensuring data privacy and protection of individual identities; achieved 95% redaction accuracy
 * Tech Stack: Python, NER, BERT
 * [Github repository](https://github.com/Amex2B/AmexSensitiveData)
 
