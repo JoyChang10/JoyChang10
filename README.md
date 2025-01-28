@@ -17,7 +17,8 @@ Python (e.g., NumPy, Pandas, Matplotlib, Seaborn, Keras, Scikit-learn), Ensemble
 Git, Bash, LaTeX, Data Science Pipeline (preparation, visualization, modeling, evaluation)
 
 ## :infinity: Statistics and Math:
-Probability, Statistics, Regression, Time Series, Stochastic Process; Calculus, Linear Algebra, Differential Equations, Numerical Analysis, Real Analysis
+* Probability, Statistics, Regression, Time Series, Stochastic Process
+* Calculus, Linear Algebra, Differential Equations, Numerical Analysis, Real Analysis
 
 
 # Projects
