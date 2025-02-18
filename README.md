@@ -42,7 +42,7 @@ Calculus, Linear Algebra, Differential Equations, Numerical Analysis, Real Analy
 * Designed a health education [website](https://joychang.wixsite.com/hpvcervicalcancer) to raise awareness on cervical cancer screening, HPV DNA testing, and HPV vaccines
 * Tech Stack: logistic regression, multi-linear regression
 
-# Math Project
+# Math Projects
 ## :earth_americas: Modeling and Simulation with PDEs at Texas A&M
 * Studied mathematical modeling with partial differential equations (PDEs), such as parabolic PDEs and wave equations, and the numerical methods for approximating PDEs such as the finite difference method
 * Solved geometric differential equations using the finite element method
