@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/725a23b1-6ffa-4ded-a602-042cc07c5618)# About Me
+# About Me
 Hi there :hugs:
 
 I'm Joy Chang, a junior at UC Santa Barbara, studying Statistics and Data Science & Applied Math. I am passionate about using data science and machine learning to predict trends, drive meaningful business decisions, and tackle community/global challenges. 
@@ -37,7 +37,7 @@ Git, Bash, LaTeX, Data Science Pipeline (preparation, visualization, modeling, e
 * Tech Stack: KNN, One Hot Encoding, hyperparameter tuning
 * [GitHub](https://github.com/JoyChang10/career_JC/blob/a8617a488550c3fdb38d86f7561f6069aa346352/ML%20Capstone%20Project/WHR_analysis.ipynb)
 
-## Statistical Analysis of Risk Factors for Cervical Cancer
+## :stethoscope: Statistical Analysis of Risk Factors for Cervical Cancer
 * Identify and examine risk factors for cervical cancer and publish the findings in a [paper](https://github.com/JoyChang10/resume/blob/41c79b9017daddae69f650d2a681647281e5de56/Statistical%20Analysis%20on%20Relationship%20between%20HPV%20infection%20and%20Risk%20Factors.pdf)
 * Designed a health education [website](https://joychang.wixsite.com/hpvcervicalcancer) to raise awareness on cervical cancer screening, HPV DNA testing, and HPV vaccines
 * Tech Stack: logistic regression, multi-linear regression
@@ -48,7 +48,7 @@ Git, Bash, LaTeX, Data Science Pipeline (preparation, visualization, modeling, e
 * Solved geometric differential equations using the finite element method
 * [Presentation](https://github.com/JoyChang10/resume/blob/d37745ed1adb83ea22fa0cba1d77dbe27449b30b/Geometric_Differential_Equations.pdf)
   
-## Directed Reading Program at UC Santa Barbara
+## :knot: Directed Reading Program at UC Santa Barbara
 * Studying knot theory through The Knot Book and relevant exercises
 * Designed a [poster](https://github.com/JoyChang10/resume/blob/a390be4a5296e6f2e267452c9127f116870ccd81/DRP%20Poster%20-%20Joy%20%26%20Mizuki.pdf) using LaTeX on knot theory, focusing on Reidemeister moves, planar graphs, and the applications of planar graphs in statistical mechanics
 
