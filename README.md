@@ -14,7 +14,7 @@ Python                |         SQL          |           R          |           
 Python (e.g., NumPy, Pandas, Matplotlib, Seaborn, Keras, Scikit-learn), Ensemble Methods, Clustering, Neural Networks, Natural Language Processing, Large Language Models, Computer Vision
 
 ## :hammer_and_wrench: Other Technologies
-Git, Bash, LaTeX, Data Science Pipeline (preparation, visualization, modeling, evaluation)
+Git, LaTeX, Power BI, Flask, SQLite, Deployment (AWS), Data Science Workflow (preparation, visualization, modeling, evaluation), Front-End Design
 
 ## :infinity: Statistics and Math
 Probability, Statistics, Regression, Stochastic Process, Time Series <br/> 
@@ -24,7 +24,13 @@ Calculus, Linear Algebra, Differential Equations, Numerical Analysis, Real Analy
 # Data Science Projects
 ## :credit_card: Sensitive Data Discovery Project with American Express 
 * Developed a sensitive data discovery model to identify and redact personally identifiable information and contextual data from large-scale text, ensuring data privacy and protection of individual identities; achieved 95% redaction accuracy
-* Tech Stack: Python, NER, BERT
+* Tech Stack: NER, BERT
+* [Github repository](https://github.com/Amex2B/AmexSensitiveData)
+
+## :potted_plant: SPROUT: Plant Disease Detection & Care Assistant
+* Developed SPROUT, an AI-powered plant health web app using Flask, SQLite, and Flask-Login; integrated a ConvNext (PyTorch) model for disease detection (97.5% accuracy) and a RAG-based chatbot with ChromaDB and DeepSeek API; deployed to a live server for public access
+* Tech Stack: Flask, SQLite, PyTorch, ConvNext
+* Check out the [website](tinyurl.com/sprout-plantapp)!
 * [Github repository](https://github.com/Amex2B/AmexSensitiveData)
 
 ## :dollar: Stock Portfolio Recommendation System for Gen Z 
