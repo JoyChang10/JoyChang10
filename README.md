@@ -28,7 +28,7 @@ Calculus, Linear Algebra, Differential Equations, Numerical Analysis, Real Analy
 * [Github](https://github.com/Amex2B/AmexSensitiveData)
 
 ## :potted_plant: SPROUT: Plant Disease Detection & Care Assistant
-* Developed SPROUT, an AI-powered plant health [web app](tinyurl.com/sprout-plantapp) using Flask, SQLite, and Flask-Login; integrated a ConvNext (PyTorch) model for disease detection (97.5% accuracy) and a RAG-based chatbot with ChromaDB and DeepSeek API; deployed to a live server for public access
+* Developed SPROUT, an AI-powered plant health [web app]((https://plant-app-129345399998.us-central1.run.app/)) using Flask, SQLite, and Flask-Login; integrated a ConvNext (PyTorch) model for disease detection (97.5% accuracy) and a RAG-based chatbot with ChromaDB and DeepSeek API; deployed to a live server for public access
 * Tech Stack: Flask, SQLite, PyTorch, ConvNext
 * [Github](https://github.com/Amex2B/AmexSensitiveData)
 
