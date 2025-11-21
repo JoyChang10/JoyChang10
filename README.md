@@ -1,7 +1,7 @@
 # About Me
 Hi there :hugs:
 
-I'm Joy Chang, a junior at UC Santa Barbara, studying Statistics and Data Science & Applied Math. I am passionate about using data science and machine learning to predict trends, drive meaningful business decisions, and tackle community/global challenges. 
+I'm Joy Chang, a senior at UC Santa Barbara, studying Statistics and Data Science & Applied Math. I am passionate about using data science and machine learning to predict trends, drive meaningful business decisions, and tackle community/global challenges. 
 
 
 # Skills 
